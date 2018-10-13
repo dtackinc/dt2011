@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<SCRIPT LANGUAGE='JavaScript'>
+<!--
+function openpowerstart() {
+	location = "http://personal.netscape.com/custom/page/show_page.html";
+}
+
+function opentip() {
+	str="/comprod/news/todaystip.html";
+	tipWin = window.open(str,'tipWin','width=175,height=175');
+	window.open(str,'tipWin','width=175,height=175');
+	tipWin.opener = self;
+}
+
+function opensearch() {
+	str="/search/searchwin.html";
+	searchWin = window.open(str,'searchWin','resizable=no,width=250,height=400,status=no,location=no,toolbar=no');
+	window.open(str,'searchWin','resizable=no,width=250,height=400,status=no,location=no,toolbar=no');
+	searchWin.refer = self;
+}
+
+function switch_page() {
+	if (document.menuform.elements[1].selectedIndex == 0) location = 'http://home.br.netscape.com/pt';
+	else if (document.menuform.elements[1].selectedIndex == 1) location = 'http://home.dk.netscape.com/da';
+	else if (document.menuform.elements[1].selectedIndex == 2) location = 'http://home.nl.netscape.com/nl';
+	else if (document.menuform.elements[1].selectedIndex == 3) location = 'http://home.fr.netscape.com/fr';
+	else if (document.menuform.elements[1].selectedIndex == 4) location = 'http://home.de.netscape.com/de';
+	else if (document.menuform.elements[1].selectedIndex == 5) location = 'http://home.it.netscape.com/it';
+	else if (document.menuform.elements[1].selectedIndex == 6) location = 'http://home.jp.netscape.com/ja';
+	else if (document.menuform.elements[1].selectedIndex == 7) location = 'http://home.kr.netscape.com/ko';
+	else if (document.menuform.elemen>
+<HR><H3>Transfer interrupted!</H3>

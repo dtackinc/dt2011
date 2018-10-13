@@ -1,0 +1,135 @@
+# Netscape Preferences File
+# Version: 2.0
+# This is a generated file!  Do not edit.
+
+SHOW_TOOLBAR:		True
+SHOW_URL:		True
+SHOW_DIRECTORY_BUTTONS:	True
+AUTOLOAD_IMAGES:	True
+FTP_FILE_INFO:		True
+SHOW_SECURITY_BAR:	True
+
+TN3270:			xterm -e tn3270 %h
+TELNET:			xterm -e telnet %h %p
+RLOGIN:			xterm -e rlogin %h
+RLOGIN_USER:		xterm -e rlogin %h -l %u
+
+MEMORY_CACHE_SIZE:	3000
+DISK_CACHE_SIZE:	5000
+CACHE_DIR:		~/.netscape/cache/
+VERIFY_DOCUMENTS:	0
+
+8BIT_MAIL_AND_NEWS:	True
+SEND_FORMATTED_TEXT:	True
+QUEUE_FOR_LATER:	False
+MAIL_BCC_SELF:		False
+NEWS_BCC_SELF:		False
+MAIL_BCC:		
+NEWS_BCC:		
+MAIL_FCC:		
+NEWS_FCC:		
+MAIL_AUTOQUOTE_REPLY:	True
+
+TMPDIR:			/tmp
+BOOKMARKS_FILE:		~/.netscape/bookmarks.html
+HISTORY_FILE:		~/.netscape/history.db
+
+DOC_CSID:		2
+FONT_CHARSET:		iso-8859-1
+FONT_SPEC:		isas-fangsong ti-0-noscale-fixed-gb_2312-80 
+FONT_SPEC:		isas-fangsong ti-0-noscale-prop-gb_2312-80 
+FONT_SPEC:		daewoo-gothic-0-noscale-fixed-ks_c_5601-1987 
+FONT_SPEC:		daewoo-gothic-0-noscale-prop-ks_c_5601-1987 
+FONT_SPEC:		misc-fixed-0-noscale-fixed-jis_x0201 
+FONT_SPEC:		misc-fixed-0-noscale-prop-jis_x0201 
+FONT_SPEC:		jis-fixed-150-noscale-fixed-jis_x0208-1983 
+FONT_SPEC:		jis-fixed-150-noscale-prop-jis_x0208-1983 
+FONT_SPEC:		adobe-courier-100-noscale-fixed-iso-8859-1 
+FONT_SPEC:		adobe-times-120-noscale-prop-iso-8859-1 
+CITATION_FONT:		2
+CITATION_SIZE:		0
+
+MIME_TYPES:		/usr/local/lib/netscape/mime.types
+PERSONAL_MIME_TYPES:	~/.mime.types
+MAILCAP:		/usr/local/lib/netscape/mailcap
+PERSONAL_MAILCAP:	~/.mailcap
+
+REAL_NAME:		David Erb
+EMAIL_ADDRESS:		erb
+ORGANIZATION:		
+SIGNATURE_FILE:		~/.signature
+SIGNATURE_DATE:		0
+ANONYMITY_LEVEL:	0
+
+DITHER_IMAGES:		Auto
+STREAMING_IMAGES:	True
+
+MAILHOST:		localhost
+MAIL_DIR:		~/nsmail/
+BIFF_INTERVAL:		10
+AUTO_CHECK_MAIL:	True
+USE_MOVEMAIL:		True
+BUILTIN_MOVEMAIL:	True
+MOVEMAIL_PROGRAM:	
+POP3_HOST:		pop
+POP3_USER_ID:		erb
+POP3_LEAVE_ON_SERVER:	False
+POP3_MSG_SIZE_LIMIT:	50000
+MAIL_FOLDER_COLUMNS:	
+MAIL_MESSAGE_COLUMNS:	
+MAIL_SASH_GEOMETRY:	
+AUTO_EMPTY_TRASH:	False
+REMEMBER_MAIL_PASSWORD:	False
+MAIL_PASSWORD:		
+THREAD_MAIL:		False
+MAIL_SORT_STYLE:	0
+
+MAX_CONNECTIONS:	4
+SOCKET_BUFFER_SIZE:	32
+
+NNTPSERVER:		news
+NEWSRC_DIR:		~/
+NEWS_MAX_ARTICLES:	100
+NEWS_CACHE_HEADERS:	False
+SHOW_FIRST_UNREAD:	False
+NEWS_FOLDER_COLUMNS:	
+NEWS_MESSAGE_COLUMNS:	
+NEWS_SASH_GEOMETRY:	
+THREAD_NEWS:		True
+NEWS_SORT_STYLE:	0
+
+PROXY_MODE:		0
+PROXY_URL:		
+SOCKS_HOST:		
+FTP_PROXY:		
+HTTP_PROXY:		
+HTTPS_PROXY:		
+GOPHER_PROXY:		
+WAIS_PROXY:		
+NO_PROXY:		
+
+USE_PASSWORD:		True
+ASK_PASSWORD:		0
+PASSWORD_TIMEOUT:	30
+WARN_ENTER_SECURE:	True
+WARN_LEAVE_SECURE:	True
+WARN_MIXED_SECURE:	True
+WARN_SUBMIT_INSECURE:	True
+LICENSE_ACCEPTED:	114 2.0
+
+TOOLBAR_ICONS:		True
+TOOLBAR_TEXT:		True
+HOME_DOCUMENT:		http://home.netscape.com/
+STARTUP_MODE:		0
+UNDERLINE_LINKS:	True
+HISTORY_EXPIRATION:	-30
+FIXED_MESSAGE_FONT:	False
+
+ADD_URLS:		
+BOOKMARK_MENU:		
+
+PRINT_COMMAND:		lpr
+PRINT_REVERSED:		False
+PRINT_COLOR:		True
+PRINT_LANDSCAPE:	False
+PRINT_PAPER:		0

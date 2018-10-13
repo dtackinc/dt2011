@@ -1,0 +1,100 @@
+make sg1
+make sg1
+cd
+make Makefiles;make deps;make bsd1.maks;make sg1
+dtyam.sh
+make Makefiles;make deps;make bsd1.maks;make sg1
+cd source
+make sg1
+cd
+cd alg
+make sg1
+make sg1
+make protos
+make sg1
+cd  ../source/high
+ls
+rm *.core
+ls dep
+cd ..
+make Makefiles bsd1.maks
+find . -name bsd1.mak -exec rm {} \;
+make Makefiles bsd1.maks
+make sg1
+cd
+make sg1
+find . -name bsd1.mak -print -exec rm {} \;
+cd fourth
+chmod a+rwx emsif
+ls dep
+cd
+cd source/high
+test -r dep/adj.c.dep
+echo $?
+make  bsd1.mak
+rm  bsd1.mak
+make  bsd1.mak
+make  bsd1.mak
+test -r dep/run.c.dep
+echo $?
+echo $?
+make  bsd1.mak
+m4 `
+syscmd(`false')
+sysval
+`
+'
+m4 '
+syscmd(`false')
+echo "syscmd(`false')`'sysval" | m4
+echo "syscmd(`false')`'sysval" | m4 -
+echo "syscmd(`false')`'sysval" 
+echo "syscmd(\`false\')\`\'sysval" 
+echo "syscmd(\`false\')\`\'sysval" | m4
+echo "syscmd(\`false')`\'sysval" | m4
+pwd
+ls
+ls
+2kt-goto-window-line
+makesg1 ACT=static
+df
+ls ../dtsg1/bin
+rm ../dtsg1/bin/dttalpha.static
+df .
+make deps
+make1 deps
+ls sh
+dtdep.sh
+set
+cd
+exit
+cd sourcw/win
+cd source/win
+ls
+mv winS.c wins.c
+mv win_iS.c win_is.c
+mv win_rC.c win_rC.c
+mv win_rC.c win_rc.c
+mv win_rS.c win_rs.c
+ls
+rm *~
+cd
+cd config
+grep Makefile *.yam
+etags *.yam
+cd
+sh sh/dtmkdirs.sh /usr/erb/prj/dtsg1
+cd config
+grep Makefile *.yam
+grep Makefile *.set
+cd
+make1 yam
+dtyam.sh
+find . -name Makefile -print -exec rm {} \;
+make makefiles
+find . -name Makefile -print -exec rm {} \;
+dtyam.sh
+ls -lt|head
+make1 makefiles
+make1 deps;make1 bsd1.maks;makesg1 -k
+su
